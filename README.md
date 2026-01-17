@@ -1,6 +1,6 @@
 # Certificados:
 
-### Análista de Dados | Data Analyst
+### Analista de Dados | Data Analyst
 
 [Analista De Dados](https://github.com/guerrinha77/Certificados/blob/d1ba8d623651be3aa8a59005bb5292be56683548/ebac-certificate-e6daafbe-7c68-4cc8-8afa-edf16f48347b.pdf)
 
